@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfCurrencyName xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrencyName>
+    <ID>R01010</ID>
+    <Name>Австралийский доллар</Name>
+  </CurrencyName>
+  <CurrencyName>
+    <ID>R01035</ID>
+    <Name>Фунт стерлингов</Name>
+  </CurrencyName>
+  <CurrencyName>
+    <ID>R01215</ID>
+    <Name>Датских крон</Name>
+  </CurrencyName>
+  <CurrencyName>
+    <ID>R01235</ID>
+    <Name>Доллар США</Name>
+  </CurrencyName>
+  <CurrencyName>
+    <ID>R01239</ID>
+    <Name>Евро</Name>
+  </CurrencyName>
+  <CurrencyName>
+    <ID>R01350</ID>
+    <Name>Канадский доллар</Name>
+  </CurrencyName>
+</ArrayOfCurrencyName>
