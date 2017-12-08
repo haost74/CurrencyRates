@@ -18,10 +18,10 @@ namespace CurrencyRates.Types
         [XmlElementAttribute("Value")]
         public string ExchangeRate;
 
-        //[XmlAnyElement("Nominal")]
-        //public string Nominal;
+        [XmlElementAttribute("Nominal")]
+        public string Nominal;
 
-        //[XmlElementAttribute("NumCode")]
-        //public string NumCode;
+        [XmlElementAttribute("NumCode")]
+        public string NumCode;
     }
 }
